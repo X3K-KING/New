@@ -28,8 +28,6 @@ class jalan:
 
  
 
-logo3 = '   \n\x1b[1;32m       d8888 8888888b.  8888888 Y88b   d88P     d8888 888b    888   \n\x1b[1;35m       d88888 888   Y88b   888    Y88b d88P     d88888 8888b   888 .      \n\x1b[1;32m       d88P888 888    888   888     Y88o88P     d88P888 88888b  888   \n\x1b[1;32m       d88P 888 888   d88P   888      Y888P     d88P 888 888Y88b 888  \n\x1b[1;35m       d88P  888 8888888P"    888       888     d88P  888 888 Y88b888 \n\x1b[1;35m       d88P   888 888 T88b     888       888    d88P   888 888  Y88888 \n\x1b[1;32m       d88P     888 888   T88b 8888888     888  d88P     888 888    Y888   \n\n\x1b[1;37m━━━━━━━━━━━━━━ \x1b[32;45mKASHIF\x1b[0;m ━━━━━━━━━━━━━━━━━\n\x1b[1;32m     \x1b[1;33mCREATED BY\x1b[0;m   :  \x1b[1;33mARYAN\x1b[0;m\x1b[1;32m && \x1b[1;33mKASHIF\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m ArYan KhAn\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-KRS\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m━━━━━━━━━━━━━━ \x1b[32;45mARYAN\x1b[0;m ━━━━━━━━━━━━━━━━━\n\n       \x1b[37;41m\t WELLCOME TO KRS TOOL\x1b[0;m\n\n\x1b[1;37m━━━━━━━━━━━━━━= \x1b[32;45mNIDA\x1b[0;m ━━━━━━━━━━━━━━━━━=\n'
-
  
 
 def ud():
